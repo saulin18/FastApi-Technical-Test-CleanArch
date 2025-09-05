@@ -392,5 +392,7 @@ Las contribuciones son bienvenidas. Por favor:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-
+Resources: 
+https://youtu.be/4L9d4pzodQo?si=5ckAcVuWAhYcqNPj (Cursor pagination)
+https://youtu.be/r8-3Iv7XExE?si=VVgDqH5sy5HLCyZ7 (Architecture)
 ---
